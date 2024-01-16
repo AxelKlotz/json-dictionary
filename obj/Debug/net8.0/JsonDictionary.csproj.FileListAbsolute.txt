@@ -1,0 +1,14 @@
+C:\Users\axelk\Documents\Visual Studio 2022\JsonDictionary\bin\Debug\net8.0\JsonDictionary.exe
+C:\Users\axelk\Documents\Visual Studio 2022\JsonDictionary\bin\Debug\net8.0\JsonDictionary.deps.json
+C:\Users\axelk\Documents\Visual Studio 2022\JsonDictionary\bin\Debug\net8.0\JsonDictionary.runtimeconfig.json
+C:\Users\axelk\Documents\Visual Studio 2022\JsonDictionary\bin\Debug\net8.0\JsonDictionary.dll
+C:\Users\axelk\Documents\Visual Studio 2022\JsonDictionary\bin\Debug\net8.0\JsonDictionary.pdb
+C:\Users\axelk\Documents\Visual Studio 2022\JsonDictionary\obj\Debug\net8.0\JsonDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\axelk\Documents\Visual Studio 2022\JsonDictionary\obj\Debug\net8.0\JsonDictionary.AssemblyInfoInputs.cache
+C:\Users\axelk\Documents\Visual Studio 2022\JsonDictionary\obj\Debug\net8.0\JsonDictionary.AssemblyInfo.cs
+C:\Users\axelk\Documents\Visual Studio 2022\JsonDictionary\obj\Debug\net8.0\JsonDictionary.csproj.CoreCompileInputs.cache
+C:\Users\axelk\Documents\Visual Studio 2022\JsonDictionary\obj\Debug\net8.0\JsonDictionary.dll
+C:\Users\axelk\Documents\Visual Studio 2022\JsonDictionary\obj\Debug\net8.0\refint\JsonDictionary.dll
+C:\Users\axelk\Documents\Visual Studio 2022\JsonDictionary\obj\Debug\net8.0\JsonDictionary.pdb
+C:\Users\axelk\Documents\Visual Studio 2022\JsonDictionary\obj\Debug\net8.0\JsonDictionary.genruntimeconfig.cache
+C:\Users\axelk\Documents\Visual Studio 2022\JsonDictionary\obj\Debug\net8.0\ref\JsonDictionary.dll
