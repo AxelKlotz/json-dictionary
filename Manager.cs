@@ -1,4 +1,6 @@
-﻿namespace JsonDictionary
+﻿using Newtonsoft.Json;
+
+namespace JsonDictionary
 {
     public class Manager
     {
@@ -6,7 +8,19 @@
 
 
         //Dictionary till Json
+        public string CreateJsonFromDict(Dictionary<string, object> dict)
+        {
+            if (!dict.Any())
+            {
+                throw new ArgumentException();
+            }
+            else
+            {
+                string json = JsonConvert.SerializeObject(dict);
+                return json;
+            }
 
+        }
 
         //Läsa Json fil
 
